@@ -15,7 +15,7 @@
 Пройдите по ссылке:
 
 https://drive.google.com/file/d/1OU-ln-9buQMAaEEbV8T7UYpXlcbj3kZE/view?usp=sharing
-
+(ошибка в ссылке. вот правильная: https://drive.google.com/drive/folders/1Jck-5rcsgopkEYcgBBBCPs4TuLuC6mdm?usp=sharing)
 Установите папку с файлом main.exe и вспомогательными файлами и запустите main.exe 
 (убедительная просьба не разделять файлы)
 
